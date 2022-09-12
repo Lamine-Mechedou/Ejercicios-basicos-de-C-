@@ -50,13 +50,7 @@ namespace Ejercicio_07
             }
 
             Console.ReadLine();
-            //preguntar nombre
 
-            //preguntar apellido
-
-            //determinar si es menor a 18 años
-
-            //Mostrar que no se puede ingresar
         }
     }
 }

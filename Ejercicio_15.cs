@@ -10,7 +10,7 @@ namespace Ejercicio_15
     {
         static void Main(string[] args)
         {
-            // Crear un programa que convierte el peso en la Tirra al peso en Mercurio,Venus o Marte
+            // Crear un programa que convierte el peso en la Tierra al peso en Mercurio,Venus o Marte usando switch.
 
             //Variable
 

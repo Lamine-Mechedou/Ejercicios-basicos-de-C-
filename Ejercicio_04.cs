@@ -10,7 +10,7 @@ namespace Ejercicio_04
     {
         static void Main(string[] args)
         {
-            // Realizar la suma,resta,multiplicacion o division de 2 numeros segun lo desse el usuario.
+            // Realizar la suma,resta,multiplicacion o division de 2 numeros segun lo dicee el usuario.
 
 
             //variables

@@ -51,9 +51,7 @@ namespace Ejercicio_13
 
             Console.ReadLine();
 
-            //Determinar si es de millas a km
-
-            //Mostrar resultado
+            
         }
     }
 }

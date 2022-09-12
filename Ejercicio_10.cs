@@ -10,7 +10,7 @@ namespace Ejercicio_10
     {
         static void Main(string[] args)
         {
-            // Crear un programa que imprimi la suma solo si el primer numero No sea menor a 10
+            // Crear un programa que imprime la suma solo si el primer numero No sea menor a 10
 
             // variables
 

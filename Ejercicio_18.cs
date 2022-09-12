@@ -20,12 +20,12 @@ namespace Ejercicio_18
             for(n = 0;n<10;n = n + 1)
             {
                 Console.WriteLine("En el ciclo");
-                contador = contador + 1; // en cada vuekta del ciclo se incrementa con uno 
+                contador = contador + 1; // en cada vuelta del ciclo se incrementa con uno 
 
             } // aca me va a mostrar cual es el numero del contador(el numero de repeticiones)
             Console.WriteLine($"El contador tiene {contador}");
 
-            //Ejemplod de acumulador
+            //Ejemplo de acumulador
             //El operador ++ acondiciona uno a la variable
             // n = n + 1 es igual a n++
             for (n = 0; n < 5; n++)
@@ -34,7 +34,7 @@ namespace Ejercicio_18
                 valor = Convert.ToInt32(Console.ReadLine());
                 acumulador = acumulador + valor; //Me va a dar la suma de los 5 numeros que el usuario le da(acumulado)
             }
-            Console.WriteLine($"El acumulador es {acumulador}");  //Mostrar el valor acumulado
+            Console.WriteLine($"El acumulado es {acumulador}");  //Mostrar el valor acumulado
             Console.ReadLine();
         }
        
